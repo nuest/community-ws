@@ -1,0 +1,10 @@
+# Ignore Gem lockfile
+Gemfile.lock
+
+# Ignore ruby packages and bundle directory
+vendor
+.bundle
+
+# Ignore the compiled site directory
+_site
+
