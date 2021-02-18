@@ -78,7 +78,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     </tr>
     <tr>
         <td>10:55</td>
-        <td>Day 1 wrap-up</td>
+        <td>Day 1 wrap-up<br/><small><em>Jeremy Cohen, Imperial College London</em></small></td>
     </tr>
 </table>
 <br/>
@@ -89,7 +89,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     </tr>
     <tr>
         <td>09:00</td>
-        <td>Day 2 introduction, day 1 recap<em>Jeremy Cohen, Imperial College London</em></td>
+        <td>Day 2 introduction, day 1 recap, <em>Jeremy Cohen</em></td>
     </tr>
     <tr>
         <td>09:10</td>
@@ -106,11 +106,11 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
         <td>10:00</td>
         <td>
             Community sustainability (Title TBC)<br/>
-            <em>Toby Hodges &amp; Serah Rono (<a href="https://carpentries.org" target="_blank" rel="noreferrer noopener">The Carpentries</a>)</em></td>
+            <em>Toby Hodges &amp; Serah Rono, <a href="https://carpentries.org" target="_blank" rel="noreferrer noopener">The Carpentries</a></em></td>
     </tr>
     <tr>
         <td>10:55</td>
-        <td>Workshop wrap-up - next steps, ongoing collaboration, links, etc.</td>
+        <td>Workshop wrap-up - next steps, ongoing collaboration, links, etc.<br/><small><em>Michelle Barker</em></small></td>
     </tr>
 </table>
 
