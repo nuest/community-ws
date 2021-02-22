@@ -15,7 +15,9 @@ title: "Research Software Communities Workshop - 17th/18th March 2021"
 - [Workshop introduction](#workshop-introduction)
 - [Speakers](#speakers)
 - [Agenda](#agenda)
+- [Session details](#session-details)
 - [Registration](#registration)
+- [About the organisers](#about-the-organisers)
 
 ## Workshop introduction
 
@@ -35,7 +37,17 @@ This workshop is being run as part of the [SORSE series on online research softw
 
 We are delighted to welcome a range of speakers including leading experts in scientific community building and collaboration.
 
-Details and bios of speakers to appear here?
+### Lou Woodley<br/><small>_Center for Scientific Collaboration and Community Engagement ([CSCCE](https://www.cscce.org/))_</small>
+
+<img src="/assets/images/louwoodley.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+
+Lou Woodley is founder and director of the Center for Scientific Collaboration and Community Engagement [CSCCE](https://www.cscce.org/). A scientist by training, Lou has spent over a decade building, studying, writing and teaching about communities in STEM. She champions the role of scientific community managers – the human infrastructure necessary for healthy, productive group work. Lou has previously led community-focused projects at Nature Publishing Group, Open Knowledge Foundation, and AAAS.
+
+### Toby Hodges<br/><small>_[The Carpentries](https://carpentries.org/)_</small>
+
+### Serah Rono<br/><small>_[The Carpentries](https://carpentries.org/)_</small>
+
+Further speaker information to follow...
 
 ## Agenda
 
@@ -74,7 +86,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     </tr>
     <tr>
         <td>10:00</td>
-        <td>Scientific Community Engagement Fundamentals (Title TBC)<br/><em>Lou Woodley, <a href="https://www.cscce.org" target="_blank" rel="noreferrer noopener">Center for Scientific Collaboration and Community Engagement (CSCCE)</a></em></td>
+        <td><a href="#engagement-fundamentals">Scientific Community Engagement Fundamentals</a> (Title TBC)<br/><em>Lou Woodley, <a href="https://www.cscce.org" target="_blank" rel="noreferrer noopener">Center for Scientific Collaboration and Community Engagement (CSCCE)</a></em></td>
     </tr>
     <tr>
         <td>10:55</td>
@@ -94,7 +106,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     <tr>
         <td>09:10</td>
         <td>
-            RSE Community Champions - discussion session<br/>
+            <a href="#champions">Community Champions - discussion session</a><br/>
             <em><small>led by Lou Woodley, <a href="https://www.cscce.org" target="_blank" rel="noreferrer noopener">CSCCE</a></small></em>
         </td>
     </tr>
@@ -105,7 +117,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     <tr>
         <td>10:00</td>
         <td>
-            Community sustainability (Title TBC)<br/>
+            <a href="#sustainability">Community sustainability</a> (Title TBC)<br/>
             <em>Toby Hodges &amp; Serah Rono, <a href="https://carpentries.org" target="_blank" rel="noreferrer noopener">The Carpentries</a></em></td>
     </tr>
     <tr>
@@ -114,6 +126,42 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     </tr>
 </table>
 
+## Session details
+
+<div id="engagement-fundamentals"></div>
+
+#### Scientific Community Engagement Fundamentals, _Lou Woodley_
+
+Member participation in a community can occur in a range of modes, as described in the [CSCCE Community Participation Model](https://zenodo.org/record/3997802#.YDOdfWNOlpQ), created by staff at the Center for Scientific Collaboration and Community Engagement (CSCCE). In this interactive session, we’ll explore the four core modes and discuss how to meet members where they are to support your community in achieving its goals.
+
+
+<div id="champions"></div>
+
+#### Community Champions, _Lou Woodley_
+
+ In [CSCCE’s Community Participation Model](https://zenodo.org/record/3997802#.YDOdfWNOlpQ), which describes the different modes of member engagement within a community, we call the members who take on leadership roles community champions. In this session we’ll explore the different roles that community champions can take on, why they’re important for the culture, growth and sustainability of a community, and how you can support them.
+
+
+<div id="sustainability"></div>
+
+#### Community sustainability, _Toby Hodges and Serah Rono_
+
+Session details to follow.
+
 ## Registration
 
 Registration for this workshop is being handled by SORSE. You can register via the [SORSE workshop page](https://sorse.github.io/programme/workshops/event-031/).
+
+## About the organisers
+
+This workshop is being organised by Jeremy Cohen, Michelle Barker and Daniel Nüst. A proposal for this workshop was submitted to [SORSE](https://sorse.github.io/) and, following review and acceptance, is being run as an event in the SORSE Series of Online Research Software Events.
+
+### Jeremy Cohen<br/><small>_[Imperial College London](https://www.imperial.ac.uk), UK_</small>
+
+<img src="/assets/images/jc.jpg" width="112px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+
+ <small>Jeremy Cohen is an EPSRC Research Software Engineering Fellow based in the Department of Computing at Imperial College London. Jeremy has a background in Computer Science and a PhD in Computing from Imperial. His past research has focused on areas including distributed and service-oriented systems and cloud computing. In recent years he has been involved with the emerging field of Research Software Engineering (RSE) where he has continued to undertake research software development work as part of multi-disciplinary collaborations, in addition to carrying out a range of RSE community development activities and advocacy for RSE. Jeremy leads Imperial’s local Research Software Community and also runs RSLondon, the regional research software community for London and the South East of England.</small>
+
+### Michelle Barker<br/><small>_[Research Software Alliance (ReSA)](https://www.researchsoft.org/), Australia_</small>
+
+### Daniel Nüst<br/><small>_[University of Münster](https://www.uni-muenster.de/en/), Germany_</small>
