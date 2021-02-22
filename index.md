@@ -39,7 +39,7 @@ We are delighted to welcome a range of speakers including leading experts in sci
 
 ### Lou Woodley<br/><small>_Center for Scientific Collaboration and Community Engagement ([CSCCE](https://www.cscce.org/))_</small>
 
-<img src="/assets/images/louwoodley.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+<img src="assets/images/louwoodley.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
 Lou Woodley is founder and director of the Center for Scientific Collaboration and Community Engagement [CSCCE](https://www.cscce.org/). A scientist by training, Lou has spent over a decade building, studying, writing and teaching about communities in STEM. She champions the role of scientific community managers – the human infrastructure necessary for healthy, productive group work. Lou has previously led community-focused projects at Nature Publishing Group, Open Knowledge Foundation, and AAAS.
 
@@ -158,7 +158,7 @@ This workshop is being organised by Jeremy Cohen, Michelle Barker and Daniel Nü
 
 ### Jeremy Cohen<br/><small>_[Imperial College London](https://www.imperial.ac.uk), UK_</small>
 
-<img src="/assets/images/jc.jpg" width="112px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+<img src="assets/images/jc.jpg" width="112px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
  <small>Jeremy Cohen is an EPSRC Research Software Engineering Fellow based in the Department of Computing at Imperial College London. Jeremy has a background in Computer Science and a PhD in Computing from Imperial. His past research has focused on areas including distributed and service-oriented systems and cloud computing. In recent years he has been involved with the emerging field of Research Software Engineering (RSE) where he has continued to undertake research software development work as part of multi-disciplinary collaborations, in addition to carrying out a range of RSE community development activities and advocacy for RSE. Jeremy leads Imperial’s local Research Software Community and also runs RSLondon, the regional research software community for London and the South East of England.</small>
 
