@@ -39,7 +39,7 @@ We are delighted to welcome a range of speakers including leading experts in sci
 
 ### Lou Woodley<br/><small>_Center for Scientific Collaboration and Community Engagement ([CSCCE](https://www.cscce.org/))_</small>
 
-<img src="assets/images/louwoodley.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+<img src="assets/images/lw.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
 Lou Woodley is founder and director of the Center for Scientific Collaboration and Community Engagement [CSCCE](https://www.cscce.org/). A scientist by training, Lou has spent over a decade building, studying, writing and teaching about communities in STEM. She champions the role of scientific community managers – the human infrastructure necessary for healthy, productive group work. Lou has previously led community-focused projects at Nature Publishing Group, Open Knowledge Foundation, and AAAS.
 
@@ -154,14 +154,18 @@ Registration for this workshop is being handled by SORSE. You can register via t
 
 ## About the organisers
 
-This workshop is being organised by Jeremy Cohen, Michelle Barker and Daniel Nüst. A proposal for this workshop was submitted to [SORSE](https://sorse.github.io/) and, following review and acceptance, is being run as an event in the SORSE Series of Online Research Software Events.
+This workshop is being organised by Michelle Barker, Jeremy Cohen and Daniel Nüst. A proposal for this workshop was submitted to [SORSE](https://sorse.github.io/) and, following review and acceptance, the workshop is being run as an event in the SORSE Series of Online Research Software Events.
+
+### Michelle Barker<br/><small>_[Research Software Alliance (ReSA)](https://www.researchsoft.org/), Australia_</small>
+
+<img src="assets/images/mb.png" width="128px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+
+<small>Dr Michelle Barker is Director of the [Research Software Alliance](https://www.researchsoft.org/) (ReSA), and has extensive expertise in open science, research software, digital workforce capability and digital research infrastructure. As a sociologist, Michelle is passionate about building collaborative partnerships to achieve system change. She is Co-chair of the [Research Data Alliance](https://www.rd-alliance.org/) [Organisational Advisory Board](https://rd-alliance.org/about-rda/our-leadership/rda-organisational-advisory-board.html), recently chaired the OECD Expert Group on [digital skills for the research sector](https://www.oecd-ilibrary.org/science-and-technology/building-digital-workforce-capacity-and-skills-for-data-intensive-science_e08aa3bb-en), was a member of the OECD Expert Group on [Socioeconomic Impact of Research Infrastructures](https://www.oecd-ilibrary.org/science-and-technology/reference-framework-for-assessing-the-scientific-and-socio-economic-impact-of-research-infrastructures_3ffee43b-en), and is a former Advisory Committee Member of the [US Software Sustainability Institute (URSSI)](http://urssi.us/). Michelle is a former Director of the [Australian Research Data Commons](https://ardc.edu.au/), where she led the strategic planning for the Australian government’s $180 million, five-year investment in ARDC, the [national research software infrastructure investment program](https://nectar.org.au/labs/), and developed a national strategy to enhance digital workforce capacity in the research sector.</small>
 
 ### Jeremy Cohen<br/><small>_[Imperial College London](https://www.imperial.ac.uk), UK_</small>
 
 <img src="assets/images/jc.jpg" width="112px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
- <small>Jeremy Cohen is an EPSRC Research Software Engineering Fellow based in the Department of Computing at Imperial College London. Jeremy has a background in Computer Science and a PhD in Computing from Imperial. His past research has focused on areas including distributed and service-oriented systems and cloud computing. In recent years he has been involved with the emerging field of Research Software Engineering (RSE) where he has continued to undertake research software development work as part of multi-disciplinary collaborations, in addition to carrying out a range of RSE community development activities and advocacy for RSE. Jeremy leads Imperial’s local Research Software Community and also runs RSLondon, the regional research software community for London and the South East of England.</small>
-
-### Michelle Barker<br/><small>_[Research Software Alliance (ReSA)](https://www.researchsoft.org/), Australia_</small>
+ <small>Jeremy Cohen is an [EPSRC Research Software Engineering Fellow](https://society-rse.org/community/rse-fellows/) based in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk). Jeremy has a background in Computer Science and a PhD in Computing from Imperial. His past research has focused on areas including distributed and service-oriented systems and cloud computing. In recent years he has been involved with the emerging field of Research Software Engineering (RSE) where he has continued to undertake research software development work as part of multi-disciplinary collaborations, in addition to carrying out a range of RSE community development activities and advocacy for RSE. Jeremy leads Imperial’s local [Research Software Community](https://www.imperial.ac.uk/computational-methods/rse/) and also runs [RSLondon](https://rslondon.ac.uk), the regional research software community for London and the South East of England.</small>
 
 ### Daniel Nüst<br/><small>_[University of Münster](https://www.uni-muenster.de/en/), Germany_</small>
