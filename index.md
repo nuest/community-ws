@@ -17,6 +17,7 @@ title: "Research Software Communities Workshop - 17th/18th March 2021"
 - [Agenda](#agenda)
 - [Session details](#session-details)
 - [Registration](#registration)
+- [Code of Conduct](#code-of-conduct)
 - [About the organisers](#about-the-organisers)
 
 ## Workshop introduction
@@ -151,6 +152,10 @@ Session details to follow.
 ## Registration
 
 Registration for this workshop is being handled by SORSE. You can register via the [SORSE workshop page](https://sorse.github.io/programme/workshops/event-031/).
+
+## Code of Conduct
+
+This workshop will be run under the [SORSE Code of Conduct](https://sorse.github.io/code-of-conduct/). Please familiarise yourself with the SORSE Code of Conduct prior to attending the workshop.
 
 ## About the organisers
 
