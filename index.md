@@ -86,7 +86,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
     </tr>
     <tr>
         <td>10:00</td>
-        <td><a href="#engagement-fundamentals">Scientific Community Engagement Fundamentals</a> (Title TBC)<br/><em>Lou Woodley, <a href="https://www.cscce.org" target="_blank" rel="noreferrer noopener">Center for Scientific Collaboration and Community Engagement (CSCCE)</a></em></td>
+        <td><a href="#engagement-fundamentals">Scientific Community Engagement Fundamentals</a><br/><em>Lou Woodley, <a href="https://www.cscce.org" target="_blank" rel="noreferrer noopener">Center for Scientific Collaboration and Community Engagement (CSCCE)</a></em></td>
     </tr>
     <tr>
         <td>10:55</td>
