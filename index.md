@@ -38,17 +38,23 @@ This workshop is being run as part of the [SORSE series on online research softw
 
 We are delighted to welcome a range of speakers including leading experts in scientific community building and collaboration.
 
-### Lou Woodley<br/><small>_Center for Scientific Collaboration and Community Engagement ([CSCCE](https://www.cscce.org/))_</small>
+### Lou Woodley<br/><small>_Director, Center for Scientific Collaboration and Community Engagement ([CSCCE](https://www.cscce.org/))_</small>
 
 <img src="assets/images/lw.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
 Lou Woodley is founder and director of the Center for Scientific Collaboration and Community Engagement [CSCCE](https://www.cscce.org/). A scientist by training, Lou has spent over a decade building, studying, writing and teaching about communities in STEM. She champions the role of scientific community managers – the human infrastructure necessary for healthy, productive group work. Lou has previously led community-focused projects at Nature Publishing Group, Open Knowledge Foundation, and AAAS.
 
-### Toby Hodges<br/><small>_[The Carpentries](https://carpentries.org/)_</small>
+### Serah Rono<br/><small>_Director of Community Development and Engagement, [The Carpentries](https://carpentries.org/)_</small>
 
-### Serah Rono<br/><small>_[The Carpentries](https://carpentries.org/)_</small>
+<img src="assets/images/sr.jpg" width="150px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
 
-Further speaker information to follow...
+Serah Njambi Rono is a computer scientist and a writer. She is currently the Director of Community Development and Engagement at The Carpentries and has served as a technologist and Developer Advocate in the Open Data, Open Source, Open Science space for more than 8 years now while embedded at organisations like Open Knowledge Foundation and Code for Africa. She has broad and valuable experience in listening to and steering communities, developing and implementing strategies for various technical projects, and around community building, outreach and the sustainability of existing, mature communities. Serah invests her time and energy to work that serves as a precursor to propelling change across communities in different domains, and believes that the work does not stop until all communities are at par in terms of access to resources and empowerment by information that open source initiatives make available. This is the measure by which she defines impact. Often, the outcome of her work has been a spark in community conversations, contributions and adoptions on different subjects, increased opportunity for community leadership and participation, and pockets of knowledge transfer.
+
+### Toby Hodges<br/><small>_Curriculum Community Developer, [The Carpentries](https://carpentries.org/)_</small>
+
+<img src="assets/images/th.png" width="116px" height="150px" style="float: left; margin-right: 20px; margin-bottom: 5px;">
+
+Toby Hodges (he/him) is the Curriculum Community Developer at The Carpentries. A former bioinformatician, Toby has spent the last six years helping community members to share their skills and knowledge. Before joining The Carpentries team in 2020 he managed the EMBL Bio-IT Project, working to build and support a community of bioinformaticians and computational biologists at the European Molecular Biology Laboratory. In his current role, Toby empowers community members to create new lessons in The Carpentries Incubator and develops programs to build connections between individuals with a shared interest in curriculum design and development.
 
 ## Agenda
 
@@ -147,7 +153,7 @@ Member participation in a community can occur in a range of modes, as described 
 
 #### Community sustainability, _Toby Hodges and Serah Rono_
 
-Session details to follow.
+One of the major challenges faced by many growing communities is to develop in a way that remains sustainable over time. In this session we will explore the concept of sustainability as it relates to scientific communities, discuss the advantages of promoting sustainability, and share resources and approaches you can use to make sure your community remains healthy, engaged, and effective as it continues to grow.
 
 ## Registration
 
