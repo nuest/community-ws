@@ -75,7 +75,7 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
             <ul>
                 <li>Running a first local chapter meeting (de-RSE chapters)<br/><em><small>Daniel Nüst, Univeristy of Münster</small></em></li>
                 <li>Nordic-RSE: Developing an international RSE community<br/><em><small>Anne Fouilloux, University of Oslo</small></em></li>
-                <li>Building and managing a professional community I: PRISM Community Managers<br/><em><small>Anja Roeding, University of Exeter</small></em></li>
+                <li>Building and managing a professional community I: Professional Research Investment and Strategy Managers (PRISMs)<br/><em><small>Anja Roeding, University of Exeter</small></em></li>
                 <li>Building and managing a professional community II: UK RSE - challenges and successes<br/><em><small>Simon Hettrick, University of Southampton</small></em></li>
             </ul>
         </td>
