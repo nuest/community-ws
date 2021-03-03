@@ -74,9 +74,9 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
             5-minute lightning talks<br/><small>These talks will set the scene for the workshop, reporting on experiences, challenges and successes in different aspects of community building.</small>
             <ul>
                 <li>Running a first local chapter meeting (de-RSE chapters)<br/><em><small>Daniel Nüst, Univeristy of Münster</small></em></li>
-                <li>Nordic-RSE: Developing an international RSE community<br/><em><small>Nordic RSE Speaker (TBC)</small></em></li>
+                <li>Nordic-RSE: Developing an international RSE community<br/><em><small>Anne Fouilloux, University of Oslo</small></em></li>
                 <li>Building and managing a professional community I: PRISM Community Managers<br/><em><small>Anja Roeding, University of Exeter</small></em></li>
-                <li>Building and managing a professional community II: The UK RSE story<br/><em><small>UK RSE Speaker (TBC)</small></em></li>
+                <li>Building and managing a professional community II: UK RSE - challenges and successes<br/><em><small>Simon Hettrick, University of Southampton</small></em></li>
             </ul>
         </td>
     </tr>
