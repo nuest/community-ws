@@ -84,7 +84,8 @@ This 4-hour workshop will run over two days, from **09:00 - 11:00 UTC** on both 
         <td>09:35</td>
         <td>
             Your three biggest challenges as a community leader/member<br/>
-            <em><small>Small group feedback session led by Daniel Nüst</small></em>
+            <em><small>Small group feedback session led by Daniel Nüst</small></em><br/>
+            <a href="http://bit.ly/community-ws-groups" target="_blank" rel="noreferrer noopener">http://bit.ly/community-ws-groups</a>
         </td>
     </tr>
     <tr>
